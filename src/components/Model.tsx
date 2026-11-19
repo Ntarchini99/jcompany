@@ -47,7 +47,7 @@ export default function Model() {
                 </blockquote>
                 <div className="mt-8 flex items-center gap-4 border-t border-surface-line pt-8">
                   <a
-                    href={https://i.postimg.cc/hPpyNR7F/Whats-App-Image-2026-11-18-at-21-35-45.jpg}
+                    href={FOUNDER_PHOTO_URL}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group relative block h-14 w-14 shrink-0 overflow-hidden rounded-full ring-2 ring-accent-500/40 transition-all hover:ring-accent-400"
